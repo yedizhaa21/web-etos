@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'josefin sans';
+    src: url(JosefinSans-VariableFont_wght.ttf);
+}
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'josefin sans';
+    
+}
+
+.container nav{
+    width: 100vw;
+    height: 60px;
+    display: flex;
+    background-color: aqua;
+    justify-content: space-around;
+
+}
+
+.container nav img{
+    width: 52px;
+    height: 52px;
+    border: 1px solid rgb(131, 129, 129);
+    border-radius: 2px;
+}
+
+.container nav ul{
+    height: 30px;
+    width: 30%;
+    padding: 5px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.container nav ul li{
+    margin: 5px;
+    padding: 0px 0 20px 0;
+}
+
+.container nav ul li:hover{
+    background-color: rgb(30, 97, 97);
+    cursor: pointer;
+    color: aliceblue;
+    border-radius: 8px;
+}
+
+.container .img-wrap{
+    display: grid;
+    width: 20%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 150px 100px;
+    grid-template-areas:
+        "img css js"
+        "preview preview preview";
+    column-gap: 10px;
+    row-gap: 10px;
+}
