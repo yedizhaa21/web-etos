@@ -1,0 +1,52 @@
+=== kontak:
+
+Jln. Daan Mogot No 121 A, Jakarta Barat, DKI Jakarta, Indonesia - 11510
+
+(021) 560 6688
+
+0819 560 6688
+
+customercare@etos.co.id
+
+
+=== Company Description
+
+PT ETOS INDONUSA dengan merek ETOS adalah perusahaan pengendali hama yang dikembangkan sejak tahun 1992. ETOS dari singkatan kata Sistem Etologi adalah sistem ilmu yang membahas tentang kebutuhan dan karakter hidup. Hal ini yang mendasari pendiri ETOS untuk membuat ETOS sebagai perusahaan mengendalikan hama yang mengedepankan perlindungan hama sasaran sebagai dasar pertimbangan dalam melakukan tindakan pencegahan.
+
+ETOS memastikan bahwa semua tindakan pengendalian dilakukan dengan penuh tanggung jawab dan aman bagi Lingkungan.
+
+Pengalaman ETOS selama berpuluh tahun dalam diskusi tentang hama didasari oleh visi untuk menjadi perusahaan jasa manajemen hama yang berbasis ilmu pengetahuan dan teknologi serta ramah lingkungan.
+
+Kami memiliki misi untuk memberikan kepuasan kepada pelanggan, efektif dan efisien dalam proses sesuai dengan SOP, merespons setiap keluhan pelanggan dengan cepat, senantiasa menyediakan SDM yang berkualitas dan menerapkan sistem manajemen mutu ISO 9001 secara berkelanjutan.
+
+Kualitas layanan adalah hal utama yang menjadi perhatian kami.
+
+Kami melayani pelanggan dengan nilai layanan perusahaan yang disingkat MICE:
+
+Bergerak bersama
+
+Integritas
+
+Fokus pelanggan
+
+Luar biasa
+
+Kebijakan mutu kami terimplementasikan dengan sistem manajemen mutu ISO 9001: 2008.
+
+Kami juga terdaftar sebagai salah satu anggota aktif ASPPHAMI (Asosiasi Perusahaan Pengendali Hama Indonesia) dan NPMA (Asosiasi Pengendalian Hama Nasional).
+
+Dengan alasan itu semua kami dikenal sebagai perusahaan mengendalikan hama yang menyediakan solusi untuk setiap kesulitan hama.
+
+=== creadit
+
+img1, img2, img3 = https://etos.co.id/home
+
+img8 = https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.popmama.com%2Fcontent-images%2Fpost%2F20181206%2Fmengatasi-gangguan-ulat-bulu-4-591d8084367bed176d2f8207f5027782_600xauto.jpg&imgrefurl=https%3A%2F%2Fwww.popmama.com%2Flife%2Fhome-and-living%2Ffx-dimas-prasetyo%2Fcara-membasmi-ulat-pada-tanaman&tbnid=q_5NCldQ7iBehM&vet=10CEQQMyiGAWoXChMI-KDh7sD89wIVAAAAAB0AAAAAEA8..i&docid=Poe9ZR043AVD3M&w=600&h=315&q=binatang%20hama&ved=0CEQQMyiGAWoXChMI-KDh7sD89wIVAAAAAB0AAAAAEA8
+
+img7 = https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatik.tempo.co%2Fdata%2F2018%2F05%2F16%2Fid_705833%2F705833_720.jpg&imgrefurl=https%3A%2F%2Fgaya.tempo.co%2Fread%2F1476144%2Fcara-mengatasi-hama-semut-di-rumah-maupun-tanaman&tbnid=P21Ssjkgb5A6bM&vet=12ahUKEwjM5pOav_z3AhUYi9gFHVAGD10QMyhgegUIARCgAQ..i&docid=jJ018YiJE7YjUM&w=720&h=478&q=binatang%20hama&ved=2ahUKEwjM5pOav_z3AhUYi9gFHVAGD10QMyhgegUIARCgAQ
+
+img6 = https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kompas.com%2Fhomey%2Fread%2F2021%2F12%2F29%2F160000176%2Ftips-mencegah-dan-membasmi-serangga-cocopet-dari-pekarangan-rumah&psig=AOvVaw0UQUsjPlaUspnqgGY5huYF&ust=1653631415506000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPig4e7A_PcCFQAAAAAdAAAAABAK
+
+img5 = https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.popmama.com%2Fcontent-images%2Fpost%2F20191001%2Fbedbug-cimex-9-5c9aa543171a5aceb0407c402f651107_800x420.jpg&imgrefurl=https%3A%2F%2Fwww.popmama.com%2Flife%2Fhome-and-living%2Fbernadine%2Fcara-mengusir-kutu-kasur&tbnid=0wjouYx1emfMoM&vet=12ahUKEwjM5pOav_z3AhUYi9gFHVAGD10QMygTegUIARDdAQ..i&docid=DCgzCutWCF_dKM&w=800&h=420&q=binatang%20hama&ved=2ahUKEwjM5pOav_z3AhUYi9gFHVAGD10QMygTegUIARDdAQ
+
+img9 = https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tribunnews.com%2Flifestyle%2F2021%2F03%2F06%2Fcara-usir-tikus-di-rumah-tanpa-pakai-racun-gunakan-minyak-esensial-hingga-larutan-cabai&psig=AOvVaw0uAUsxpreGAIF_7G6dr7et&ust=1653631710892000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiKwc7A_PcCFQAAAAAdAAAAABAD
