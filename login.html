@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @import url(https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,200&family=Passions+Conflict&family=Ubuntu+Mono&display=swap);
+
+        body{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Josefin Sans', sans-serif;
+        }
+
+        .container{
+            width: 400px;
+            height: 200px;
+            margin: 30vh auto;
+            
+        }
+
+        h2{
+            font-size: 36px;
+            margin: 10px auto;
+            border-bottom: 1px solid black;
+        }
+
+        input{
+            border: none;
+            margin: 5px;
+        }
+
+        input:focus{
+            outline: none; 
+            border-bottom: 1px solid rgb(112, 106, 106)
+        }
+
+        button{
+            margin: 20px auto;
+            background-color: rgb(26, 167, 14);
+            font-size: 16px;
+            padding: 2px 7px;
+            border-radius: 10px;
+            border-color: aliceblue;
+            transition: .2s;
+        }
+
+        button:hover{
+            cursor: pointer;
+            background-color: green;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Login</h2>
+        
+        ID&emsp; : <input type="text" name="text" id="" placeholder="&ensp;ID Anda"><br>
+        
+        Pass&ensp;: <input type="password" name="pass" id="" placeholder="&ensp;Password Anda"><br>
+        
+        <a href="#"><button type="submit">Login</button></a>
+        
+        <a href="index.html"><button type="submit">< Back</button></a>
+    </div>
+</body>
+</html>

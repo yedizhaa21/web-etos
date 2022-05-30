@@ -80,6 +80,7 @@ footer{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    border-top: 1px solid black;
 }
 
 .footer-left{
@@ -99,9 +100,33 @@ footer p{
 .sosmed-logo{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 30px;
 }
 
-footer .bg-img{
+.img-logo:hover{
+    cursor: pointer;
+    border: 1px solid rgb(110, 110, 228);
+    border-radius: 25px;
+}
+
+footer .footer-left .alamat .bg-img{
     position: absolute;
     z-index: -3;
+    bottom: -30%;
+    left: 0;
+}
+
+.credits ul li{
+    margin: 5px;
+}
+
+.credits a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+
+.credits a:hover{
+    color: blue;
+    border-bottom: 1px solid black;
 }
